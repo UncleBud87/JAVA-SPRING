@@ -1281,3 +1281,24 @@
 2022-04-08 12:27:56,724 [Worker-61: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-08 12:27:56,724 [Worker-61: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-08 12:27:56,724 [Worker-61: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\DaikichiRoutes\src\test\resources
+2022-04-08 12:32:49,046 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 12:32:49,046 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 12:32:49,047 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-08 12:32:49,052 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-08 12:32:49,053 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 12:32:49,053 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 12:32:49,053 [Worker-69: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\DaikichiRoutes\src\test\resources
+2022-04-08 12:50:50,604 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 12:50:50,604 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 12:50:50,605 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-08 12:50:50,610 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-08 12:50:50,619 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 12:50:50,619 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 12:50:50,619 [Worker-79: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\DaikichiRoutes\src\test\resources
+2022-04-08 13:07:35,544 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 13:07:35,544 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 13:07:35,545 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-08 13:07:35,552 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-08 13:07:35,553 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-08 13:07:35,553 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-08 13:07:35,553 [Worker-83: Launching DaikichiRoutes - DaikichiRoutesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\DaikichiRoutes\src\test\resources
