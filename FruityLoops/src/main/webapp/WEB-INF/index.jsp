@@ -16,7 +16,7 @@
 	<h1>I'm a Template</h1>
 	<br>
 	
-
+<div class="container">
 	<c:forEach items="${fruits}" var="i">
 	
 		<h3>${i.name}</h3>
@@ -24,6 +24,8 @@
 		<br>
 		
 	</c:forEach>
+</div>
+	
 
 </body>
 </html>
