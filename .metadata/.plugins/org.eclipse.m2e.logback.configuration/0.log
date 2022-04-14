@@ -3932,3 +3932,297 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 20:33:12,166 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:33:12,166 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:33:12,166 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:33:12,166 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:33:12,167 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:33:12,167 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:33:12,167 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 20:37:41,640 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:37:41,640 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:37:41,641 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:37:41,641 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:37:41,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:37:41,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:37:41,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 20:55:30,480 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:55:30,480 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:55:30,481 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:55:30,486 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 20:55:30,488 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:55:30,488 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:55:30,488 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 20:56:07,946 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:56:07,946 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:56:07,946 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:56:07,946 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:56:07,947 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:56:07,947 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:56:07,947 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 20:56:10,715 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:56:10,715 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:56:10,715 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:56:10,715 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 20:56:10,716 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:56:10,716 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:56:10,716 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:03:37,468 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:03:37,468 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:03:37,468 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:03:37,468 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:03:37,469 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:03:37,469 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:03:37,469 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:07:35,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:07:35,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:07:35,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:07:35,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:07:35,415 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:07:35,415 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:07:35,415 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:20:02,490 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:20:02,490 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:20:02,490 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:20:02,490 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:20:02,491 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:20:02,491 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:20:02,491 [Worker-64: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:20:57,610 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:20:57,610 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:20:57,610 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:20:57,610 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:20:57,611 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:20:57,611 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:20:57,611 [Worker-65: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:22:30,430 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:22:30,430 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:22:30,431 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:22:30,431 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:22:30,431 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:22:30,431 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:22:30,431 [Worker-62: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:26:31,511 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:26:31,511 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:26:31,512 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:26:31,512 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:26:31,512 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:26:31,512 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:26:31,512 [Worker-63: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:27:45,235 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:27:45,235 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:27:45,235 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:27:45,235 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:27:45,236 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:27:45,236 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:27:45,236 [Worker-61: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:33:31,049 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:33:31,049 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:33:31,050 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:33:31,055 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:33:31,057 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:33:31,057 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:33:31,057 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:35:57,710 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:35:57,710 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:35:57,711 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:35:57,714 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:35:57,716 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:35:57,716 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:35:57,716 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:44:41,278 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:44:41,278 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:44:41,279 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:44:41,282 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 21:44:41,288 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:44:41,288 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:44:41,288 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:44:48,707 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:44:48,707 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:44:48,708 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:44:48,708 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:44:48,708 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:44:48,708 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:44:48,708 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:45:09,900 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:45:09,900 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:45:09,901 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:45:09,903 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 21:45:09,909 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:45:09,909 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:45:09,909 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:47:51,054 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:47:51,054 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:47:51,055 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:47:51,060 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 21:47:51,061 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:47:51,061 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:47:51,061 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:48:08,140 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:48:08,140 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:48:08,142 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 21:48:08,146 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 21:48:08,148 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:48:08,148 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:48:08,148 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:53:23,196 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:53:23,197 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:53:23,197 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:53:23,197 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:53:23,198 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:53:23,198 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:53:23,198 [Worker-88: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 21:54:28,555 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:54:28,555 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:54:28,556 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:54:28,556 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 21:54:28,557 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 21:54:28,557 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 21:54:28,557 [Worker-84: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:02:13,320 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:02:13,320 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:02:13,320 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:02:13,321 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:02:13,322 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:02:13,323 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:02:13,323 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:04:25,556 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:04:25,557 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:04:25,557 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:04:25,557 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:04:25,558 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:04:25,558 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:04:25,558 [Worker-96: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:07:05,425 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:07:05,425 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:07:05,426 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:07:05,426 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:07:05,426 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:07:05,426 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:07:05,427 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:08:39,846 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:08:39,846 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:08:39,847 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:08:39,847 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:08:39,847 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:08:39,848 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:08:39,848 [Worker-100: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:09:25,467 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:09:25,467 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:09:25,467 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:09:25,468 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:09:25,468 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:09:25,468 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:09:25,468 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:12:00,684 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:12:00,684 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:12:00,684 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:12:00,684 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:12:00,685 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:12:00,685 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:12:00,685 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:14:35,263 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:14:35,263 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:14:35,263 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:14:35,263 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 22:14:35,266 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:14:35,267 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:14:35,267 [Worker-104: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:16:29,833 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:16:29,833 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:16:29,833 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:16:29,834 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 22:16:29,836 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:16:29,837 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:16:29,837 [Worker-103: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:16:55,405 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:16:55,405 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:16:55,405 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:16:55,406 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 22:16:55,408 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:16:55,408 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:16:55,409 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:17:58,985 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:17:58,985 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:17:58,986 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:17:58,986 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:17:58,987 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:17:58,987 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:17:58,987 [Worker-95: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:19:12,242 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:19:12,242 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:19:12,242 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:19:12,242 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:19:12,243 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:19:12,243 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:19:12,243 [Worker-107: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:19:50,101 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:19:50,102 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:19:50,102 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:19:50,102 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:19:50,102 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:19:50,103 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:19:50,103 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:20:14,206 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:20:14,206 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:20:14,206 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:20:14,206 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:20:14,207 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:20:14,207 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:20:14,207 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:20:38,704 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:20:38,705 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:20:38,705 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:20:38,705 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:20:38,706 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:20:38,706 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:20:38,706 [Worker-102: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:21:12,083 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:21:12,083 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:21:12,084 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:21:12,084 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:21:12,084 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:21:12,084 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:21:12,085 [Worker-106: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:21:45,230 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:21:45,230 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:21:45,230 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:21:45,231 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:21:45,231 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:21:45,231 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:21:45,231 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:22:08,498 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:22:08,499 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:22:08,499 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:22:08,499 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:22:08,499 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:22:08,499 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:22:08,500 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:23:12,985 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:23:12,985 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:23:12,985 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:23:12,985 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:23:12,986 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:23:12,986 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:23:12,986 [Worker-109: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:24:04,097 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:24:04,097 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:24:04,097 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:24:04,097 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:24:04,098 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:24:04,098 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:24:04,098 [Worker-90: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:24:41,005 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:24:41,005 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:24:41,006 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:24:41,006 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 22:24:41,009 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:24:41,009 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:24:41,009 [Worker-110: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
+2022-04-13 22:25:13,895 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:25:13,896 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:25:13,896 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-13 22:25:13,896 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 22:25:13,899 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 22:25:13,899 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 22:25:13,899 [Worker-111: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources

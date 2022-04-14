@@ -8,6 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
 import com.dojo.SaveTravels.models.Expense;
@@ -41,4 +42,35 @@ public class ExpenseController {
 		expenseService.Create(expense);
 		return "redirect:/expense";
 	}
+	@GetMapping("/expense/{id}")
+	public String show_expense(@PathVariable("id") Long id, Model model) {
+		model.addAttribute("expense",expenseService.ReadOne(id));
+		return "show_expense";
+	}
+	@GetMapping("/expense/{id}/edit")
+	public String edit_expense(@PathVariable("id") Long id, Model model) {
+		Expense expense=expenseService.ReadOne(id);
+		if(expense==null) return "redirect:/expense";
+		model.addAttribute("expense",expenseService.ReadOne(id));
+		return "edit_expense";
+	}
+	@PostMapping("/expense/{id}/update")
+	public String update_expense(
+			@Valid @ModelAttribute("expense") Expense expense,
+			BindingResult res,
+			Model model,
+			@PathVariable("id") Long id) {
+		if(res.hasErrors()) {
+			System.out.println("ERROR in update_expense");
+			return "edit_expense";
+		}
+		expenseService.Update(expense);
+		return "redirect:/expense";
+	}
+	@PostMapping("/expense/{id}/delete")
+	public String delete_expense(@PathVariable("id") Long id) {
+		expenseService.Delete(id);
+		return "redirect:/expense";
+	}
+	
 }

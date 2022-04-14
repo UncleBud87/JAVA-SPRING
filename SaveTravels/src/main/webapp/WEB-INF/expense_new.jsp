@@ -9,7 +9,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
 	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
@@ -19,22 +19,26 @@
 			</div>
 		<div class="card">
 			
-					<div>
-					<table>
+			<div>
+				<table>
 						<tr>
 							<th class="wide">Expense:</th>
 							<th class="wide">Vendor:</th>
 							<th class="wide">Cost:</th>
+							<th class="wide">Edit:</th>
+							<th class="wide">Delete:</th>
 						</tr>	
-						<c:forEach items="${expenses}" var="i" >				
+					<c:forEach items="${expenses}" var="i" >				
 						<tr>
-							<td>${i.expense_type}</td>
-							<td>${i.expense_vendor}</td>
-							<td>${i.expense_amount}</td>
+							<td><h3><a href="/expense/${i.id}">${i.expense_type}</a></h3></td>
+							<td><h3>${i.expense_vendor}</h3></td>
+							<td><h3>${i.expense_amount}</h3></td>
+							<td><h3><a href="/expense/${i.id}/edit">Edit</a></h3></td>
+							<td><h3><form action="/expense/${i.id}/delete" method="POST"><input class="bg_red round_12 col_white2" type="submit" value="Delete Expense"/></form></h3></td>
 						</tr>
-						</c:forEach>
-					</table>
-					</div>
+					</c:forEach>
+				</table>
+			</div>
 				
 		</div>
 		
