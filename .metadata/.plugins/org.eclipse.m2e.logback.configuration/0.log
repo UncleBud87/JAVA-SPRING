@@ -3928,3 +3928,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-04-13 20:25:24,819 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-13 20:25:24,819 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-13 20:25:24,820 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-13 20:25:24,825 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-13 20:25:24,827 [Worker-44: Launching SaveTravels - SaveTravelsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\SaveTravels\src\test\resources
