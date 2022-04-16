@@ -14,5 +14,25 @@
 </head>
 <body>
 
+	<div class="card">
+	
+			<h1>${dojo.name}</h1>
+
+		<table>
+			<tr>
+				<th class="wide">First Name:</th>
+				<th class="wide">Last Name:</th>
+				<th class="wide">Age:</th>
+			</tr>	
+		<c:forEach items="${dojo.ninjas}" var="i" >				
+			<tr>
+				<td><h3>${i.first_name}</h3></td>
+				<td><h3>${i.last_name}</h3></td>
+				<td><h3>${i.age}</h3></td>
+			</tr>
+		</c:forEach>
+		</table>
+	</div>
+
 </body>
 </html>

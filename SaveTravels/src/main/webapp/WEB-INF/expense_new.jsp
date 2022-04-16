@@ -15,33 +15,28 @@
 <body>
 	<div class="container p2">
 		<div class="card_head">
-				<h1 class="col_white1">Save Travels</h1>
-			</div>
-		<div class="card">
-			
-			<div>
-				<table>
-						<tr>
-							<th class="wide">Expense:</th>
-							<th class="wide">Vendor:</th>
-							<th class="wide">Cost:</th>
-							<th class="wide">Edit:</th>
-							<th class="wide">Delete:</th>
-						</tr>	
-					<c:forEach items="${expenses}" var="i" >				
-						<tr>
-							<td><h3><a href="/expense/${i.id}">${i.expense_type}</a></h3></td>
-							<td><h3>${i.expense_vendor}</h3></td>
-							<td><h3>${i.expense_amount}</h3></td>
-							<td><h3><a href="/expense/${i.id}/edit">Edit</a></h3></td>
-							<td><h3><form action="/expense/${i.id}/delete" method="POST"><input class="bg_red round_12 col_white2" type="submit" value="Delete Expense"/></form></h3></td>
-						</tr>
-					</c:forEach>
-				</table>
-			</div>
-				
+			<h1 class="col_white1">Save Travels</h1>
 		</div>
-		
+		<div class ="card">
+			<table>
+				<tr>
+					<th class="wide">Expense:</th>
+						<th class="wide">Vendor:</th>
+						<th class="wide">Cost:</th>
+						<th class="wide">Edit:</th>
+						<th class="wide">Delete:</th>
+					</tr>	
+				<c:forEach items="${expenses}" var="i" >				
+					<tr>
+						<td><h3><a href="/expense/${i.id}">${i.expense_type}</a></h3></td>
+						<td><h3>${i.expense_vendor}</h3></td>
+						<td><h3>${i.expense_amount}</h3></td>
+						<td><h3><a href="/expense/${i.id}/edit">Edit</a></h3></td>
+						<td><h3><form action="/expense/${i.id}/delete" method="POST"><input class="bg_red round_12 col_white2" type="submit" value="Delete Expense"/></form></h3></td>
+					</tr>
+				</c:forEach>
+			</table>
+		</div>
 		<form:form class="card" action="/expense" method="POST" modelAttribute="expense" >
 			<div class="card_head">
 				<h1 class="col_white1">Add Expense</h1>
@@ -58,15 +53,7 @@
 				<form:input placeholder="Cost" path="expense_amount" />	
 				<input class="btn_submit" type="submit" value="Add Expense" />
 			</div>
-		</form:form>	
-		
-
-	
-		
-		
-		
+		</form:form>			
 	</div>
-
-
 </body>
 </html>
