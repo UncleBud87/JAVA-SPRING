@@ -48,7 +48,8 @@ public class ExpenseController {
 		return "show_expense";
 	}
 	@GetMapping("/expense/{id}/edit")
-	public String edit_expense(@PathVariable("id") Long id, Model model) {
+	public String edit_expense(@PathVariable("id") Long id, Model model) 
+	{
 		Expense expense=expenseService.ReadOne(id);
 		if(expense==null) return "redirect:/expense";
 		model.addAttribute("expense",expenseService.ReadOne(id));
@@ -74,3 +75,4 @@ public class ExpenseController {
 	}
 	
 }
+
