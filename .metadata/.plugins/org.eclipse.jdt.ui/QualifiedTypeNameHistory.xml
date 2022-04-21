@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
     <fullyQualifiedTypeName name="com.dojo.FruityLoops.models.Item"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -15,17 +14,21 @@
     <fullyQualifiedTypeName name="java.beans.Transient"/>
     <fullyQualifiedTypeName name="com.dojo.LoginAndRegistration.LoginAndRegistrationApplication"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.services.UserService"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
-    <fullyQualifiedTypeName name="javax.persistence.Table"/>
-    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="javax.persistence.Id"/>
-    <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
-    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
-    <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.repositories.BookRepository"/>
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.models.Book"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.models.User"/>
     <fullyQualifiedTypeName name="com.dojo.BeltExam.models.User"/>
+    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+    <fullyQualifiedTypeName name="com.dojo.ProjectManager.models.User"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.dojo.ProjectManager.models.Task"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
