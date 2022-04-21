@@ -10543,3 +10543,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-04-21 11:32:25,686 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-21 11:32:25,686 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-04-21 11:32:25,687 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-21 11:32:25,689 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-21 11:32:25,695 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-21 11:32:25,695 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-21 11:32:25,695 [Worker-82: Launching BeltExam - BeltExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\lperi\OneDrive\Desktop\JAVA SPRING\BeltExam\src\test\resources

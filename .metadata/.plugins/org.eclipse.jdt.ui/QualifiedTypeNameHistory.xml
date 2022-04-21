@@ -27,4 +27,5 @@
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.models.Book"/>
     <fullyQualifiedTypeName name="com.dojo.BookClub.models.User"/>
+    <fullyQualifiedTypeName name="com.dojo.BeltExam.models.User"/>
 </qualifiedTypeNameHistroy>
