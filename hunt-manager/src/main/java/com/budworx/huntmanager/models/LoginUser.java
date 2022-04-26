@@ -1,4 +1,4 @@
-package com.budworx.models;
+package com.budworx.huntmanager.models;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;

@@ -1,9 +1,11 @@
-package com.budworx.controllers;
+package com.budworx.huntmanager.controllers;
+
+
 
 import javax.servlet.http.HttpSession;
 
-import com.budworx.models.User;
-import com.budworx.services.UserService;
+import com.budworx.huntmanager.models.User;
+import com.budworx.huntmanager.services.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

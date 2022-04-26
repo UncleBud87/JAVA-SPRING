@@ -1,6 +1,6 @@
-package com.budworx.repositories;
+package com.budworx.huntmanager.repositories;
 
-import com.budworx.models.User;
+import com.budworx.huntmanager.models.User;
 
 import org.springframework.data.repository.CrudRepository;
 

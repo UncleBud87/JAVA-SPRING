@@ -1,12 +1,12 @@
-package com.budworx.services;
+package com.budworx.huntmanager.services;
 
 import java.util.Optional;
 
 import javax.servlet.http.HttpSession;
 
-import com.budworx.models.LoginUser;
-import com.budworx.models.User;
-import com.budworx.repositories.UserRepository;
+import com.budworx.huntmanager.models.LoginUser;
+import com.budworx.huntmanager.models.User;
+import com.budworx.huntmanager.repositories.UserRepository;
 
 import org.mindrot.jbcrypt.BCrypt;
 import org.springframework.beans.factory.annotation.Autowired;
