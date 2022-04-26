@@ -10,6 +10,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 import com.dojo.BeltExam.models.User;
+import com.dojo.BeltExam.services.SongService;
 import com.dojo.BeltExam.services.UserService;
 
 @Controller
@@ -17,15 +18,19 @@ public class RootController {
 	
 	@Autowired
 	private UserService userService;
+	@Autowired
+	private SongService songService;
 
 	
 	public RootController
 	(
-			UserService userService
+			UserService userService,
+			SongService songService
 
 	)
 	{
 			this.userService=userService;
+			this.songService=songService;
 
 	}
 	
@@ -37,12 +42,13 @@ public class RootController {
 		return "redirect:/login";
 	}
 	
-	@GetMapping("/index")
+	@GetMapping("/home")
 	public String show_book(Model model, HttpSession session, User user)
 
 	{
 		if(!userService.IsLoggedIn(session)) return "redirect:/login";
-
+		model.addAttribute("song",songService.ReadAll());
+		model.addAttribute("songs",songService.ReadAll());
 		model.addAttribute("user_name",session.getAttribute("user_name"));
 		return "index";
 		

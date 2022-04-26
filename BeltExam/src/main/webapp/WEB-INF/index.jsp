@@ -15,7 +15,7 @@
 <body>
 	<div class="grid bg_blue flex">
 		<div class="container p1">
-			<h1 class="col_white1">Welcome</h1>
+			<h1 class="col_white1">Hello, <c:out value="${user_name}"/></h1>
 		</div>
 		<div class="container p1">
 			<c:if test="${user_id!=null}">
@@ -26,6 +26,24 @@
 
 	<div class="card">
 
+			
+			
+		<table>
+			<tr>
+				<th class="wide">Song:</th>
+				<th>Genre:</th>
+				<th># of Collaborations:</th>
+			</tr>	
+		<c:forEach items="${songs}" var="i" >				
+			<tr>
+				<td class="text_center"><h3><a href="/songs/${i.id}" class="col_blue">${i.title}</a></h3></td>
+				<td class="text_center"><h3>${i.genre}</h3></td>
+				<td class="text_center"><h3>${i.count}</h3></td>
+
+			</tr>
+		</c:forEach>
+		</table>
+		<a href="/songs/new" class="col_blue">Add Song</a>
 	</div>
 
 </body>
