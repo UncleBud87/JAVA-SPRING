@@ -77,7 +77,7 @@ public class UserController
 		User db_user=userService.login(user,result,session);
 		if(db_user==null) return "user_login";
 		session.setAttribute("user_id", db_user.getId());
-		return "redirect:/book";
+		return "redirect:/home";
 	
 	}
 };

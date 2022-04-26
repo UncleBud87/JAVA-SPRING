@@ -25,21 +25,19 @@ public class RootController
 			this.userService=userService;
 	}
 	
-	
-	
 	@GetMapping("/")        
 	public String root_get(Model model)
 	{
 		return "redirect:/login";
 	}
 	
-	@GetMapping("/book")
+	@GetMapping("/home")
 	public String show_book(Model model, HttpSession session, User user)
 
 	{
 		if(!userService.IsLoggedIn(session)) return "redirect:/login";
 		model.addAttribute("user_name",session.getAttribute("user_name"));
-		return "show_book";
+		return "index";
 		
 	}
 }

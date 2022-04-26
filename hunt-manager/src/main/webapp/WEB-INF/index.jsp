@@ -16,39 +16,17 @@
 	<div class="grid bg_blue flex">
 		<div class="container p1">
 		<h1 class="col_white1">Welcome, <c:out value="${user_name}"/></h1>
-		<h3 class="col_white1">Books from everyone's shelves:</h3>
 		</div>
 			<div class="p1">
 				<c:if test="${user_id!=null}">
 					<a class="col_white1" href="/logout">Logout</a>
 				</c:if>
 				<br/>
-				<br/>
-				<a href="/book/new" class="col_white1">Add Book</a>
 			</div>
 		
 	</div>
 
 	<div class="card">
-
-			
-			
-		<table>
-			<tr>
-				<th>ID:</th>
-				<th class="wide">Title:</th>
-				<th>Author Name:</th>
-				<th>Posted By:</th>
-			</tr>	
-		<c:forEach items="${books}" var="i" >				
-			<tr>
-				<td class="text_center"><h3>${i.id}</h3></td>
-				<td class="text_center"><h3><a href="/book/${i.id}/details" class="col_blue">${i.title}</a></h3></td>
-				<td class="text_center"><h3>${i.author}</h3></td>
-				<td class="text_center"><h3>${i.user.name}</h3></td>
-			</tr>
-		</c:forEach>
-		</table>
 	</div>
 
 </body>
